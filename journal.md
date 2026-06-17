@@ -53,7 +53,7 @@ annddd it turns out I also forgot to think about any resistors and capactiors I 
 
 ![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%203.59.23%E2%80%AFPM.png "Screenshot")
 
-### 4:45pm - pcb layout
+### 4:45pm - pcb layout (20 mins)
 
 working on laying out the components on the pcb editor
 
