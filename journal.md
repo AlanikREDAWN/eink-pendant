@@ -16,9 +16,11 @@ I'm thinking what I need to do is just open KiCad and start throwing stuff toget
 started putting together what I knew I could (switch to gnd and xiao), and researching what I didn't know (eink display)
 
 **Throwing things into KiCad**
+
 ![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%2011.34.26%E2%80%AFAM.png "Screenshot")
 
 **eink research**
+
 ![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%2011.38.52%E2%80%AFAM.png "Screenshot")
 
 
