@@ -23,5 +23,32 @@ started putting together what I knew I could (switch to gnd and xiao), and resea
 
 ![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%2011.38.52%E2%80%AFAM.png "Screenshot")
 
+### 2:10pm - more KiCad + research (2 hours)
 
+finding footprints to put into the schematic. I'm thinking of using the seeed studio ePaper Driver Board and just adding headers to it to make my life simple. I just need to add a footprint to use in KiCad for it.
 
+I'm proabably just gonna use a generic connector and modify it a bit to match the pins.
+
+**Custom generic connector**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%202.30.27%E2%80%AFPM.png "Screenshot")
+
+**finished wiring driver board**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%203.14.59%E2%80%AFPM.png "Screenshot")
+
+**finished wiring through-hole neopixel - gonna start with one for now and add more if they fit**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%203.16.21%E2%80%AFPM.png "Screenshot")
+
+**final schematic (for now at least)**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%203.22.27%E2%80%AFPM.png "Screenshot")
+
+nvm, that one was not final...I had to tweak my custom driver board connector and break it into two connectors so I have more control when positioning the holes on the pcb
+
+annddd it turns out I also forgot to think about any resistors and capactiors I might need. Apparently (according to google - yes google...do you really think I already know what I'm doing?) its a good idea to include them for the neopixel
+
+**hopefully the final schematic**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%203.59.23%E2%80%AFPM.png "Screenshot")
