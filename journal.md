@@ -52,3 +52,11 @@ annddd it turns out I also forgot to think about any resistors and capactiors I 
 **hopefully the final schematic**
 
 ![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%203.59.23%E2%80%AFPM.png "Screenshot")
+
+### 4:45pm - pcb layout
+
+working on laying out the components on the pcb editor
+
+**the layout so far**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%204.58.42%E2%80%AFPM.png "Screenshot")
