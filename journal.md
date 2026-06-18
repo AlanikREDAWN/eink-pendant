@@ -60,3 +60,9 @@ working on laying out the components on the pcb editor
 **the layout so far**
 
 ![<# alt text #>](screenshots/Screenshot%202026-06-17%20at%204.58.42%E2%80%AFPM.png "Screenshot")
+
+### 5:05pm - importing 3d models (10 mins)
+
+working on getting and importing 3d models for the rendering
+
+
