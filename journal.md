@@ -1,6 +1,6 @@
 # eink pendant
 
-## June 17
+## June 17 2026
 
 ### 11:15am - planning (10 mins)
 
@@ -64,5 +64,37 @@ working on laying out the components on the pcb editor
 ### 5:05pm - importing 3d models (10 mins)
 
 working on getting and importing 3d models for the rendering
+
+## June 18 2026
+
+### 1:10pm - importing 3d models + pcb design (2 hours, 20 mins)
+
+continuing to work on getting 3d models so I can see how things will fit before wiring
+
+**adding custom driver 3d model on existing header 3d models**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-18%20at%201.16.11%E2%80%AFPM.png "Screenshot")
+
+now I'm trying to figure out why one of my driver headers doesn't have any connections in the pcb panel
+
+turns out the issue was becuase I renumbered the pins, I just had to revert them and they were fine
+
+**3d model so far**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-18%20at%202.51.50%E2%80%AFPM.png "Screenshot")
+
+**more progress! I still need to figure out how to fit in the lipo battery and eink display. they're not soldered to the board, but they're plugged into the driver**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-18%20at%203.05.29%E2%80%AFPM.png "Screenshot")
+
+**I think I finally figured out an ideal layout to fit everything, so now its time to start wiring**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-18%20at%203.16.53%E2%80%AFPM.png "Screenshot")
+
+**starting to wire**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-18%20at%203.25.13%E2%80%AFPM.png "Screenshot")
+
+after a little bit of wiring, I realized that there was something wrong with the 5V connections on the led...they weren't even connected to the microcontroller!
 
 
