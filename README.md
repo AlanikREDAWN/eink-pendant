@@ -14,13 +14,15 @@ The idea for this PCB is, you press a button, and it changes the LED color and t
 | NeoPixel Diffused 5mm Through-Hole LED    | 1   | $4.95      | $4.95       | [https://www.digikey.com/en/products/detail/adafruit-industries-llc/1938/6827082](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1938/6827082)                                                                 |
 | 330 Ohm Metal Film Resistor               | 5   | $0.10      | $0.50       | [https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/MF1-4LCT52R331J/21679525](https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/MF1-4LCT52R331J/21679525)                                     |
 | 3.7V Lipo Battery                         | 1   | $8.99      | $8.99       | [https://www.amazon.com/Qimoo-Battery-Rechargeable-Connector-Electronic/dp/B0CNLPBM2L?nsdOptOutParam=true&sr=8-7](https://www.amazon.com/Qimoo-Battery-Rechargeable-Connector-Electronic/dp/B0CNLPBM2L?nsdOptOutParam=true&sr=8-7) |
-
+| PCB                                       | 5   | N/A        | $2.00       | N/A                                                                                                                                                                                                                                |
+ 
 ## Cart Screenshots
 
 ![<# alt text #>](screenshots/seeedStudioCart.png "Screenshot")
 ![<# alt text #>](screenshots/thockKingCart.png "Screenshot")
 ![<# alt text #>](screenshots/digiKeyCart.png "Screenshot")
 ![<# alt text #>](screenshots/amazonCart.png "Screenshot")
+![<# alt text #>](screenshots/JLCPCBCart.png "Screenshot")
 
 ## Screenshots
 
