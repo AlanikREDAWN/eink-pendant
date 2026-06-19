@@ -121,7 +121,7 @@ now is the part where I struggle to model a case in fusion360 ToT
 
 ## June 19 2026
 
-### 7:45am - the final stretch
+### 7:45am - the final stretch (1 hour, 15 mins)
 
 I got up early this morning to finish modeling the case and finish all the things I need to do to submit (like putting together the BOM and throwing all the files into the repo)
 
