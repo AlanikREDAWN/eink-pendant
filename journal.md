@@ -97,4 +97,40 @@ turns out the issue was becuase I renumbered the pins, I just had to revert them
 
 after a little bit of wiring, I realized that there was something wrong with the 5V connections on the led...they weren't even connected to the microcontroller!
 
+### 4:50pm - wiring pcb (45 mins)
 
+after asking for a sanity check on my schematic, I decided to work on the case while I waited
+
+well, turns out I didn't even need that capacitor...google was misleading.
+
+**this is how the schematic looks after making those small fixes**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-18%20at%205.17.27%E2%80%AFPM.png "Screenshot")
+
+**the final wired pcb! (hopefully)**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-18%20at%205.25.49%E2%80%AFPM.png "Screenshot")
+
+### 5:45pm - modeling case (30 mins)
+
+now is the part where I struggle to model a case in fusion360 ToT
+
+**getting the base rectangle in for the case**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-18%20at%206.02.17%E2%80%AFPM.png "Screenshot")
+
+## June 19 2026
+
+### 7:45am - the final stretch
+
+I got up early this morning to finish modeling the case and finish all the things I need to do to submit (like putting together the BOM and throwing all the files into the repo)
+
+**the case is almost done! I just need to add a keyring**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-19%20at%208.09.14%E2%80%AFAM.png "Screenshot")
+
+**the case is done! (at least, until I get the PCB and potentially decide to make changes)**
+
+![<# alt text #>](screenshots/Screenshot%202026-06-19%20at%208.15.23%E2%80%AFAM.png "Screenshot")
+
+now to shop for parts and put everything in the GitHub repo
